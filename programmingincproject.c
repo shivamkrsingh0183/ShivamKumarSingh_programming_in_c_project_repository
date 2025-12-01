@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include<stdio.h>
-#include<string.h>
  struct details{
     char passenger__first_name[51];
     char passenger_middle_name[21];
@@ -125,4 +123,5 @@ do{
     }
 }while(choice!=4);
 return 0;
+
 }
